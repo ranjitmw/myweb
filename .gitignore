@@ -1,2 +1,4 @@
 tomcat.sh
 target/
+cmtlog.sh
+cmtlogfile
